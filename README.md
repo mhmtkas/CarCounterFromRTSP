@@ -1,4 +1,3 @@
-# project2forpitonarge
 CAR COUNTER
 
 Requirements for building the project
@@ -23,4 +22,4 @@ For OpenCv : sudo apt install python3-pip pip3 install opencv-python or sudo apt
 
 For PyQt5: pip3 install --user pyqt5 sudo apt install python3-pyqt5 sudo apt install pyqt5-dev-tools
 
-Mehmet Kas-Piton R&D Internship
+
